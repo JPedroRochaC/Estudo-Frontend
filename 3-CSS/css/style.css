@@ -1,0 +1,36 @@
+/* external css */
+body {
+    padding-bottom: 500px;
+}
+h3 {
+    color: cadetblue;
+    font-size: 35px;
+}
+p{
+    color:black;
+}
+/* classes . */
+.paragraph{
+    background-color: rgb(0, 0, 0);
+    color: darkmagenta;
+    padding: 5px;
+}
+/* ids # */
+#exclusive-title{
+    background-color: cornflowerblue;
+    color: violet;
+    padding: 6px;
+}
+
+h2 {
+    border-bottom: 2px solid palegreen;
+
+}
+
+.titulo{
+    border-bottom: 5px solid darkblue;
+}
+
+#algum-titulo{
+    border-bottom: 5px solid purple;
+}
