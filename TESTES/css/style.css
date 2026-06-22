@@ -5,19 +5,21 @@
     border: 2px solid #160cce ;
     margin: 50px auto;
     text-align: center;
+    border-radius: 10px;
 
 }
 
 .nome{
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: #fff;
     font-size: 22px;
     margin-bottom: 8px;
+    text-transform: uppercase;
 
 }
 
 .profissao{
-    color: #aaa;
+    color: #fff;
     font-size: 14px;
     margin-bottom: 20px;
     text-transform: uppercase;
@@ -26,17 +28,19 @@
 
 .portfolio{
     text-decoration: none;
-    padding: 3px 3px;
+    padding: 8px 16px;
     border-radius: 5px;
     background-color: #160cce;
     color: #fff;
     border: none;
+    display: inline-block;
     
 }
 
 body{
     background-color: #111;
     font-family:'Courier New', Courier, monospace;
+    margin: 0;
 }
 
 .imagem{
@@ -46,4 +50,5 @@ body{
     border: 2px solid #160cce;
     display: block;
     margin: auto;
+    margin-bottom: 16px;
 }

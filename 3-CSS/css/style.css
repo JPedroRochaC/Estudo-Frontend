@@ -105,3 +105,7 @@ background-size: cover;
     background-color: #444;
     padding: 6px 12px 18px 24px;
 }
+
+.invisible{
+    display: none;
+}
